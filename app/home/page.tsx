@@ -3,7 +3,7 @@
 
 import { useState } from "react";
 
-
+// page d'accueil
 
 export default function HomeClient() {
   
