@@ -9,7 +9,7 @@ export default function HomeHero() {
             </div>
           
             <div className="flex gap-4 mt-4  size-165 ">
-                <button className="text-black bg-orange-500  h-9 hover:translate-y-1 py-1 px-1 rounded-lg">Créer un compte</button>
+                <button className="text-black bg-orange-500  h-9 hover:translate-y-1 py-1 px-1 rounded-lg animate-pulse">Créer un compte</button>
                 <button className="text-blue-500 bg-white h-9 hover:translate-y-1 py-1 px-1 rounded-lg">Explorer la démo</button>
             </div>
         </div>
