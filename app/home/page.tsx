@@ -2,6 +2,8 @@
 
 
 import { useState } from "react";
+import HomeHero from "@/components/home/HomeHero";
+import HomeStats from "@/components/home/HomeStats"
 
 // page d'accueil
 
@@ -9,12 +11,12 @@ export default function HomeClient() {
   
   return (
     <main>
-      <div className="flex flex-col items-center justify-center min-h-screen py-2">
-        <h1 className="text-4xl font-bold mb-4">Welcome to the Home Page</h1>
-        <p className="text-lg text-gray-600">
-          This is the home page of your Next.js application bbnbn.
-        </p>
-      </div>
+      <section>
+        <HomeHero/>
+      </section>
+      <section>
+        <HomeStats/>
+      </section>
     </main>
   );
 }
