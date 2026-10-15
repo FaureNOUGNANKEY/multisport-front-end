@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "icon": "Handshake",
+    "date": "2026-09-12",
+    "title": "Nouvelle ligue de football partenaire",
+    "summary": "Nous sommes ravis d'annoncer notre partenariat avec la Ligue de Football de la région. Cette collaboration permettra de développer des programmes d'accompagnement pour les clubs et les athlètes."
+  },
+  {
+    "id": 2,
+    "icon": "GraduationCap",
+    "date": "2026-09-08",
+    "title": "Atelier de formation pour les entraîneurs",
+    "summary": "Un atelier de formation pour les entraîneurs de différentes disciplines sportives a été organisé afin d'améliorer leurs compétences et leur connaissance des meilleures pratiques."
+  },
+  {
+    "id": 3,
+    "icon": "Rocket",
+    "date": "2026-09-02",
+    "title": "Lancement du programme d'accompagnement des clubs",
+    "summary": "Nous avons lancé un nouveau programme visant à accompagner les clubs sportifs dans leur développement, en mettant l'accent sur la gestion, le marketing et le recrutement des athlètes."
+  },
+  {
+    "id": 4,
+    "icon": "Globe",
+    "date": "2026-08-20",
+    "title": "Participation à la conférence internationale sur le sport",
+    "summary": "Notre équipe a participé à la conférence internationale sur le sport, où nous avons présenté nos initiatives et échangé avec d'autres experts du domaine."
+  },
+  {
+    "id": 5,
+    "icon": "Activity",
+    "date": "2026-08-05",
+    "title": "Nouveau système de suivi des athlètes",
+    "summary": "Nous avons mis en place un nouveau système de suivi des performances des athlètes, permettant une meilleure analyse et un accompagnement personnalisé."
+  }
+]
