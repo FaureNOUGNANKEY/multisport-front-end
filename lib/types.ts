@@ -9,3 +9,9 @@ export type News = {
   title: string;
   summary: string;
 };
+export type ContactFormData = {
+  name: string;
+  email: string;
+  subject: string;
+  message: string;
+};

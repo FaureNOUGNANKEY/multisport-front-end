@@ -49,7 +49,7 @@ export default function HomeHeader() {
     { href: "/home", label: "Accueil", icon: Home },
     { href: "/home/News", label: "Actualités", icon: Building },
     { href: "/home/about", label: "A propos", icon: Building },
-    { href: "/home/contact", label: "Nous contacter", icon: Contact2 },
+    { href: "/home/cantact", label: "Nous contacter", icon: Contact2 },
   ];
 
   return (
