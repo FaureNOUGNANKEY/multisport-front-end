@@ -27,6 +27,7 @@ export default function HomeClient() {
       <section>
         <HomeServices/>
       </section>
+      
     </main>
   );
 }
